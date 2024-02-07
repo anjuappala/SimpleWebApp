@@ -89,7 +89,7 @@ h1{
     
     <section id="home">
         <header>
-            <span style="font-size:64px;margin-right:10px;color:orange">amazon shopping website</span>
+            <span style="font-size:64px;margin-right:10px;color:orange"> anil shopping website</span>
             <ul id="menu">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">About Us</a></li>
@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> ****  Laptop offers available till 31st Jan 2024 **** </h1>   
+         <h1> ****  Laptop offers available till 31st feb 2024 **** </h1>   
 	 
 
     </section>    
